@@ -136,11 +136,11 @@
 
 @media (max-width: 600px) {
   .love-calculator {
-    width: 400px;
+    width: 350px;
   }
 
   .love-calculator h1 {
-    width: 350px;
+    width: 320px;
     font-size: 2rem;
   }
 
@@ -164,6 +164,6 @@
   }
   
   .message-container {
-    width: 350px;
+    width: 300px;
   }
 }
