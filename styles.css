@@ -134,13 +134,13 @@
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
   .love-calculator {
-    width: 300px;
+    width: 350px;
   }
 
   .love-calculator h1 {
-    width: 290px;
+    width: 310px;
     font-size: 2rem;
   }
 
